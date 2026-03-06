@@ -1,0 +1,11 @@
+# Chatbot: Ireland–UK post-Brexit simulation assistant
+# Python 3.9+
+
+openai>=1.0.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
+
+# Optional: for REST API
+# uvicorn>=0.24.0
+# fastapi>=0.104.0
